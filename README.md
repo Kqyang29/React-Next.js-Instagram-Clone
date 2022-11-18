@@ -2,6 +2,28 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Deploy in Vercel:
+  - https://react-next-js-instagram-clone.vercel.app/
+  
+Tech:
+  - Nextjs
+  - tailwind css
+  - firebase v9 (firebase firestore, firebase storage)
+  - custom Next OAuth
+  - Recoil (state&&global management) == redux
+  - faker.js = generate fake data
+  
+Features:
+  - Google Authentication using NextAuth
+  - Users can Post photos with caption
+  - Users can like and comment on any post
+  - Users can message other users of this app
+  - Users can send Picture as a message
+  - Fully Responsive
+  - Log out feature
+  - Without logging in, you can see only see posts and stories
+
+
 First, run the development server:
 
 ```bash
